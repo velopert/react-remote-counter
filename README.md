@@ -5,4 +5,5 @@ This project is an example React.js project that uses Express.js, Redux, and axi
 
 ## Preview
 
+![Preview](https://raw.githubusercontent.com/velopert/react-remote-counter/master/preview.gif)
 Live Preview: https://remotecounter.hoah.xyz/
