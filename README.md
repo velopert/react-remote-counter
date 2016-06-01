@@ -1,8 +1,9 @@
 # REACT-REMOTE-COUNTER
 
 ## About
-This project is an example React.js project that uses Express.js, Redux, and axios to demonstrate a simple counter. The backend server holds the counter and the counter number gets updated every 5 seconds and whenever it is clicked. Some basic CSS are used to decorate the counter.
-
+This project is an example React.js project that uses Express.js, Redux, and axios to demonstrate a simple counter. The backend server holds the counter and the counter number gets updated every 5 seconds and whenever it is clicked. Some basic CSS are used to decorate the counter.  
+  
+Tutorial on this project (in Korean): https://velopert.com/1552
 ## Preview
 
 ![Preview](https://raw.githubusercontent.com/velopert/react-remote-counter/master/preview.gif)  
